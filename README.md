@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/wez-msft/test-pipeline/_apis/build/status/linkinchow.pipelines-java)](https://dev.azure.com/wez-msft/test-pipeline/_build/latest?definitionId=1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
